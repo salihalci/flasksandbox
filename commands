@@ -1,0 +1,12 @@
+pip3 install virtualenv
+
+virtual env
+activate source env/bin/activate
+
+flask run --host='0.0.0.0'
+
+Git Commands
+
+git add .
+git commit -m "new features added"
+git push -u origin main
