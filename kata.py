@@ -60,7 +60,10 @@ def forLoopExample1():
 		print(x)
 
 if __name__=='__main__':
-
+	name="salih alcı"
+	print(name.title())
+	print(name.upper())
+	print(name)
 	#print("Hello")
 	#print()
 	#whileLoopExample();
@@ -77,4 +80,4 @@ if __name__=='__main__':
 #	movies = ["The Holy Grail", 1975, "Terry Jones & Terry Gilliam", 91, ["Graham Chapman", ["Michael Palin", "John Cleese","Terry Gilliam", "Eric Idle", "Terry Jones"]]]
 #	nestedListExtendedExample(movies)
 
-	forLoopExample1()
+	#forLoopExample1()
